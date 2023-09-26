@@ -66,3 +66,5 @@ The implemtation of code starts with
 
 •	After training, the model is evaluated on the test dataset. The accuracy of teh model on the entire test dataset and the accuracy for each injdividual class are calculated and the results are printed in the console
 
+
+
